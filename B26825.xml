@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The midship-man's garland Containing three new songs. 1st. A new dialogue call'd, Billy, the midship-man's welcome home to his sweet-heart Molly. 2d. The traders medley: or the cry's of London. 3d. Admiral Russel's scowering the French fleet: or, the battle at sea.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26825</idno><idno type="EEBO-CITATION">99832742</idno>
+  <idno type="VID">199091</idno>
+  <idno type="EEBO-PROQUEST">2248551445</idno>
+  
+            <idno type="STC">Wing M2001</idno>
+            <idno type="PROQUEST">99832742</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832742e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21244:103)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The midship-man's garland Containing three new songs. 1st. A new dialogue call'd, Billy, the midship-man's welcome home to his sweet-heart Molly. 2d. The traders medley: or the cry's of London. 3d. Admiral Russel's scowering the French fleet: or, the battle at sea.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Walter, at the Hand and Pen in high Holbourn,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Plomer; date of publication from Wing.</note>
+                  <note>With titlepage woodcut.</note>
+                  <note>Text unsigned.</note>
+                  <note>At end of text: Licensed according to order.</note>
+                  <note>Identified as Wing (2nd ed.) M2002 on UMI microfilm set "Early English books, 1641-1700", reel 2124.4.</note>
+                  <note>Wing incorrectly describes this work as being a broadsheet and the title as "midshipman's".</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Songs, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199091:1"/>
+            <p>The Midship-Man's GARLAND. Containing Three New SONGS.
+<list>
+                  <item>1st. A new Dialogue Call'd, <hi>Billy,</hi> the Midship<g ref="char:EOLhyphen"/>man's Welcome home to his Sweet-heart <hi>Molly.</hi>
+                  </item>
+                  <item>2d. The Traders Medley: or the Cry's of <hi>London.</hi>
+                  </item>
+                  <item>3d. <hi>Admiral Russel</hi>'s Scowering the <hi>French fleet:</hi> or, the Battle at Sea.</item>
+               </list>
+            </p>
+            <figure>
+               <figDesc>depiction of a ship or galleon with three masts, each topped with the flag of Saint George, six cannons, and male figures on deck and in the rigging</figDesc>
+               <p>E</p>
+               <p>E</p>
+               <p>C</p>
+               <p>B</p>
+            </figure>
+            <p>Printed for <hi>J. Walter,</hi> at the Hand and Pen in high <hi>Holbourn.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb n="2" facs="tcp:199091:2"/>
+            <head>The Midship-Mans Garland, &amp;c.</head>
+            <div type="song">
+               <head>2d. <hi>A new Dialogue Call'd</hi> Billy, <hi>the Midship man's Welcome home.</hi>
+               </head>
+               <opener>Tune of, <hi>Ianthe,</hi> &amp;c.</opener>
+               <sp>
+                  <speaker>Molly.</speaker>
+                  <l>YOu're welcome my <hi>Billy</hi> to the English shore,</l>
+                  <l>I hope you'l not cross the ruff Seas any more,</l>
+                  <l>Many a day too, and many a night,</l>
+                  <l>My heart grieved sore cause you were out of sight,</l>
+                  <l>But now to my comfort I see you again,</l>
+                  <l>Oh never dear <hi>Billy,</hi> Oh never dear <hi>Billy,</hi>
+                  </l>
+                  <l>Sail more on the Main.</l>
+               </sp>
+               <sp>
+                  <speaker>Billy.</speaker>
+                  <l>
+                     <hi>Dear</hi> Molly, <hi>said</hi> Billy, <hi>the</hi> joy of my heart,</l>
+                  <l>Daily I thought on you since we did part,</l>
+                  <l>And when the roaring waves mounting high they did move,</l>
+                  <l>In the greatest danger I thought on my Love,</l>
+                  <l>The billows did foam and the Rocks they were nigh,</l>
+                  <l>Yet nothing but Death, yet nothing but death,</l>
+                  <l>shall my Love part and I.</l>
+               </sp>
+               <sp>
+                  <speaker>Molly.</speaker>
+                  <l>I thank thee my dear for thy firm Love to me,</l>
+                  <l>In the midst of thy dangers upon the ruff Sea,</l>
+                  <l>Each Night in my Bed still as down i was lain,</l>
+                  <l>I dreamed of Ship wracks upon the salt Main,</l>
+                  <l>But now I do find from those dangers i'm free,</l>
+                  <l>Since him that I love, since him that i love,</l>
+                  <l>is come safe unto me.</l>
+               </sp>
+               <pb n="3" facs="tcp:199091:2"/>
+               <sp>
+                  <speaker>Billy.</speaker>
+                  <l>Indeed my dear <hi>Molly,</hi> the Powers above,</l>
+                  <l>Preserv'd me from dangers for thy tender love,</l>
+                  <l>For I have been where thundering Cannons did roar,</l>
+                  <l>Their Bullets like Footballs flying from the Shoar,</l>
+                  <l>The danger of Tempest and Cannon balls too,</l>
+                  <l>I have undergone, I have undergone.</l>
+                  <l>for <hi>the sake Love</hi> of you.</l>
+               </sp>
+               <sp>
+                  <speaker>Molly.</speaker>
+                  <l>My dearest its true, for the fault is in me,</l>
+                  <l>for thou would'st have Wed, but i said go to Sea,</l>
+                  <l>But when thou wert gone, how my heart was opprest</l>
+                  <l>I scarce had a Minute of pleasure and rest,</l>
+                  <l>for by Day all my fear was of danger to thee,</l>
+                  <l>And by night i did dream, &amp; by night i did dream</l>
+                  <l>Still of Storms on the Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>Billy.</speaker>
+                  <l>My Dear thou dream'st right, for e're we got home,</l>
+                  <l>for <hi>several</hi> Days we had Storm after Storm,</l>
+                  <l>we lost all our Masts and our Tackle to boot,</l>
+                  <l>in Tempestuous nights on the Ocean did float.</l>
+                  <l>But thanks unto Heaven we had no Men lost,</l>
+                  <l>And the brave Royal <hi>Sou'rain,</hi> the brave Royal <hi>Sou' rain,</hi>
+                  </l>
+                  <l>come safe to our Coast.</l>
+               </sp>
+               <sp>
+                  <speaker>Molly.</speaker>
+                  <l>Oh my dear precious, my <hi>Billy</hi> my joy,</l>
+                  <l>There's nothing my happiness now can destroy,</l>
+                  <pb n="4" facs="tcp:199091:3"/>
+                  <l>for since thou art from all Cannon and storms,</l>
+                  <l>Thy person to me has a Million of Charms,</l>
+                  <l>Oh stay then on Shore never venture again</l>
+                  <l>Upon the ruff <hi>Seas</hi> upon <hi>the</hi> ruff Seas</l>
+                  <l>
+                     <hi>but with me love remain.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Billy.</speaker>
+                  <l>
+                     <hi>Thy love unto me now is dearer then life,</hi>
+                  </l>
+                  <l>
+                     <hi>And happie am i since thou wilt be my Wife,</hi>
+                  </l>
+                  <l>
+                     <hi>And while i'm on Shore still with thee i will stay,</hi>
+                  </l>
+                  <l>
+                     <hi>Imbracing thy charms love by Night and by Day,</hi>
+                  </l>
+                  <l>
+                     <hi>Till our Admiral doth Sail with the Fleet on the main,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet kind Providence I hope, yet kind Providence I hope</hi>
+                  </l>
+                  <l>
+                     <hi>brings me safe back again.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div type="song">
+               <head>2d. <hi>The Traders Medly: or the Crys of LONDON: being a pleasant Copy of Verses on the Daily Cries in</hi> London, <hi>from</hi> Billingsgate <hi>to</hi> VVhite-Chapple Mount, <hi>and from thence to</hi> Tuttle-street <hi>in</hi> West<g ref="char:EOLhyphen"/>minster, <hi>relating all sorts of Hawkers and Petty Chapmen.</hi>
+               </head>
+               <opener>To the tune of, When Cold Winter storms are past.</opener>
+               <lg>
+                  <l>HOly and Ivy or Missleto,</l>
+                  <l>do you want any Greens Your Houses to strow,</l>
+                  <l>Old Cloaths to Sell, or Change for Earthen-ware,</l>
+                  <l>do you want any damsons or Burgume Pare,</l>
+                  <l>Buy my Oranges or Lemmons,</l>
+                  <l>With dainty Ropes of Oinions,</l>
+                  <l>Come <hi>Buy my</hi> sweet Williams,</l>
+                  <l>Have you got any Kitchen Stuff Maids.</l>
+               </lg>
+               <pb n="5" facs="tcp:199091:3"/>
+               <lg>
+                  <l>Four pair for a shilling, Holland Socks,</l>
+                  <l>Your Knives for to Grind, buy my ripe Apricocks;</l>
+                  <l>Here's your sharp Vinegar three pence a Quart,</l>
+                  <l>Also new fresh Herrings, here's 8 for a Groat;</l>
+                  <l>Ends of Gold and Silver,</l>
+                  <l>Ribbons or Garters,</l>
+                  <l>buy my new <hi>well</hi> Fleet Oysters,</l>
+                  <l>
+                     <hi>Old Bellows, old Bellows to mend.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>buy my Cucumbers fit for the <hi>Pickle,</hi>
+                  </l>
+                  <l>Any <hi>Cony-Skins</hi> Maids be they never so little;</l>
+                  <l>Here's your Ripe Strawberries six pence a Pottle,</l>
+                  <l>Any old Chairs to mend, any broken Glass bottle,</l>
+                  <l>Curds and VVhay,</l>
+                  <l>VVill yo've any thing to day,</l>
+                  <l>If You must come away,</l>
+                  <l>A Pot or a Kettle to mend.</l>
+               </lg>
+               <lg>
+                  <l>Knives, or Scissars, Buckles, or Caps,</l>
+                  <l>here's an excellent way to <hi>Kill all</hi> your Ratts,</l>
+                  <l>hot Custards hot, for two pence a piece,</l>
+                  <l>Will you buy any Walnuts, or old rotten Cheese,</l>
+                  <l>Spectacles for your Noses,</l>
+                  <l>Will you buy any Poses,</l>
+                  <l>Of Curnations and Roses;</l>
+                  <l>do You want any <hi>Butter</hi> or <hi>Eggs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Old</hi> shooes or boots, will You buy any brooms,</l>
+                  <l>Maids, here's your fine brushes to scrub out Your Rooms;</l>
+                  <l>A Cock or a Pullet, a Capon or Hen,</l>
+                  <l>And here's Your old Pin Man, a coming agen;</l>
+                  <l>My Basket and Voider,</l>
+                  <l>Rare Patches and Powder,</l>
+                  <pb n="6" facs="tcp:199091:4"/>
+                  <l>Come buy my sweet Flounder,</l>
+                  <l>From <hi>Holland</hi> here's a new Express.</l>
+               </lg>
+               <lg>
+                  <l>Ripe <hi>Kentish</hi> Cherries for three pence a Pound,</l>
+                  <l>Figg Figg it away for i tell <hi>You</hi> they'r sound;</l>
+                  <l>hot Pudding Pies, here is two for a pennie;</l>
+                  <l>Come <hi>buy my</hi> Card Matches, as long as i've anie:</l>
+                  <l>flowers for <hi>Your</hi> Gardens,</l>
+                  <l>Come <hi>buy my</hi> bak'd Wardens,</l>
+                  <l>here's two for a Farthing,</l>
+                  <l>Will you buy any Furbeloe Pears.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hot</hi> Spice Ginger-bread, Taffety Tarts;</l>
+                  <l>here's a dram of the bottle, to comfort your hearts</l>
+                  <l>dainty fine Ink, you will lik't when you see't,</l>
+                  <l>here's very good trotters, with tripe and Neetsfeet</l>
+                  <l>Come, come away Sir,</l>
+                  <l>buy a pen Knife, or a Razor,</l>
+                  <l>VVhile i am at Leasure;</l>
+                  <l>have <hi>You</hi> got any Lanthorns to mend,</l>
+               </lg>
+               <lg>
+                  <l>buy a sheet Almanack, hot Grey Pease;</l>
+                  <l>come see what <hi>You</hi> lack and buy what you please:</l>
+                  <l>A brush for <hi>Your</hi> Shooes, and combs for <hi>Your</hi> hair;</l>
+                  <l>here's diddle diddle diddle dumplings, and Ladie fine ware;</l>
+                  <l>
+                     <hi>Old</hi> Rags for money,</l>
+                  <l>if <hi>Yo've</hi> never so many,</l>
+                  <l>I buy more than any;</l>
+                  <l>here's <hi>Milk</hi> for pennie Quart.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="7" facs="tcp:199091:4"/>
+               <head>3d. <hi>Admiral</hi> Russel<hi>'s Scowering the French-Fleet, Or, The Battle at Sea.</hi>
+               </head>
+               <lg>
+                  <l>THursday in the Morn the Ides of <hi>May</hi>
+                  </l>
+                  <l>Recorded for ever the famous <hi>Ninety two,</hi>
+                  </l>
+                  <l>brave <hi>Russel</hi> did discern by dawn of Day,</l>
+                  <l>the Lofty Sails of <hi>France</hi> advancing: Now</l>
+                  <l>All hands aloft, aloft, Let <hi>English</hi> Valour shine;</l>
+                  <l>Let fly a Culvering, the Signal of the Line,</l>
+                  <l>
+                     <hi>Let</hi> ev'ry hand supply his Gun,</l>
+                  <l>Follow me and You'll see,</l>
+                  <l>that the battle will be soon begun.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Turvil</hi> o'er the main triumphant rowl'd,</l>
+                  <l>to meet the gallant <hi>Russel</hi> in Combat on the deep</l>
+                  <l>He led the noble train of Heroes bold,</l>
+                  <l>to sink the <hi>English</hi> Admiral at his feet,</l>
+                  <l>Now every Valiant mind to Victory does aspire</l>
+                  <l>the bloody Fights began, the Sea it self on fire,</l>
+                  <l>and mighty Fare stood looking on,</l>
+                  <l>whilst a flood <hi>all</hi> of blood</l>
+                  <l>fill'd the port holes of the <hi>Royal Sun.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>sulpher, smoak and Fire disturbed the air,</l>
+                  <l>with <hi>thunder</hi> &amp; <hi>wonder</hi> to fright the <hi>gallick-shore,</hi>
+                  </l>
+                  <l>Their Regulated bands stood trembling near,</l>
+                  <l>to see their lofty streamers now no more:</l>
+                  <l>At six a Clock the Red, the smiling Victor <hi>L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>to give a second blow, their total overthrow;</l>
+                  <l>now death and horrow equal Reign,</l>
+                  <l>how they Cry, Run or Oye,</l>
+                  <l>brittish <hi>Colours</hi> ride the Vanquisht main.</l>
+               </lg>
+               <pb n="8" facs="tcp:199091:5"/>
+               <lg>
+                  <l>see they run amaz'd thro' Rocks on sands:</l>
+                  <l>One danger they grasp at, to shun a greater fate</l>
+                  <l>in vain they crie for aid to weeping <hi>Lands,</hi>
+                  </l>
+                  <l>the <hi>Nimphs</hi> &amp; <hi>Sea Gods</hi> mourn their <hi>Lost</hi> estate,</l>
+                  <l>for ever more adieu thou dazling Royal sun,</l>
+                  <l>from thy untimely end thy Masters sate begun</l>
+                  <l>enough thou mighty God of war:</l>
+                  <l>Now we sing, bless the Queen,</l>
+                  <l>
+                     <hi>Let</hi> us drink to ev'ry English Tar.</l>
+               </lg>
+               <lg>
+                  <l>Come Jolly seamen all with Russel go,</l>
+                  <l>to sail on the main proud <hi>Mounsieur</hi> for to greet</l>
+                  <l>and give our Enemy a second blow,</l>
+                  <l>and sight <hi>Turvil</hi> if that he dare to meet,</l>
+                  <l>
+                     <hi>Come brother Tar what cheer? Let each supply,</hi>
+                  </l>
+                  <l>
+                     <hi>And thump 'em off this Year or make Mounsier to fly,</hi>
+                  </l>
+                  <l>while we do range the Ocean Round,</l>
+                  <l>Day or Night we will fight,</l>
+                  <l>when our Enemy is to be found.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Let</hi> it ne'er be said that English boys</l>
+                  <l>should e'er stay behind when their admiral goes</l>
+                  <l>but <hi>Let</hi> each honest <hi>Lad</hi> crie with one voice,</l>
+                  <l>brave Russel <hi>Lead</hi> us on to fight the foes,</l>
+                  <l>we'll give them gun for gun, some sink and others burn</l>
+                  <l>
+                     <hi>Broad-sides</hi> we'll give 'em too, till <hi>Monsieur</hi> crys mor<g ref="char:EOLhyphen"/>blew</l>
+                  <l>Des Enleteer vill Kill us all;</l>
+                  <l>whilst they scower we will Pour,</l>
+                  <l>thick as hail amongst them Cannon-ball.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licensed according to Order.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
